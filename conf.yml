@@ -1,0 +1,5 @@
+# Edit your own infomation
+domain: '****'
+mail: '****'
+passwd: '****'
+channel: '****' # class name not channel name
